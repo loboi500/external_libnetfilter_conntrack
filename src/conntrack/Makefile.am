@@ -1,17 +1,3 @@
-include $(top_srcdir)/Make_global.am
-
-noinst_LTLIBRARIES = libnfconntrack.la 
-
-libnfconntrack_la_SOURCES = api.c \
-			    getter.c setter.c \
-			    labels.c \
-			    parse.c build.c \
-			    parse_mnl.c build_mnl.c \
-			    snprintf.c \
-			    snprintf_default.c snprintf_xml.c \
-			    objopt.c \
-			    compare.c \
-			    copy.c \
-			    filter.c bsf.c filter_dump.c \
-			    grp.c grp_getter.c grp_setter.c \
-			    stack.c
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bcffd0fd2ffec21edb2a8642d91f5e8389022a376cdab50c6b82301c1f95694
+size 428

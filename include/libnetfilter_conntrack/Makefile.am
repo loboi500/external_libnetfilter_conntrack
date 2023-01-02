@@ -1,2 +1,3 @@
-
-pkginclude_HEADERS = libnetfilter_conntrack.h linux_nfnetlink_conntrack.h libnetfilter_conntrack_tcp.h libnetfilter_conntrack_udp.h libnetfilter_conntrack_icmp.h libnetfilter_conntrack_sctp.h libnetfilter_conntrack_dccp.h libnetfilter_conntrack_ipv4.h libnetfilter_conntrack_ipv6.h
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d7f32d4a871afee46a1a12789efda3bb0ef9c6bffac9eef08fc85359d8be3c5
+size 283
